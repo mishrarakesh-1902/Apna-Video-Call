@@ -118,3 +118,5 @@ export const connectToSocket = (server) => {
     return io;
 }
 
+
+// Socket Auth: Verify JWT token before establishing socket connection
