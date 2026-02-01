@@ -11,3 +11,4 @@ router.route("/add_to_activity").post(addToHistory)
 router.route("/get_all_activity").get(getUserHistory)
 
 export default router;
+// Routes: POST /register, POST /login, GET /profile, PUT /update, DELETE /account
