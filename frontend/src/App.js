@@ -34,3 +34,5 @@ function App() {
 }
 
 export default App;
+
+// Routes: /, /auth, /home, /meeting/:id, /history - Protected routes require auth

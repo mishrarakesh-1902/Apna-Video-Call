@@ -20,3 +20,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-01 17:45:00] Document API routes structure
 - Added comprehensive documentation for all user API routes
+
+### [2026-02-01 19:00:00] Add App component routing documentation
+- Documented React Router configuration and protected route setup
