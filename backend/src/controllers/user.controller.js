@@ -99,3 +99,4 @@ const addToHistory = async (req, res) => {
 
 
 export { login, register, getUserHistory, addToHistory }
+// Input Validation: Check required fields before processing user requests
