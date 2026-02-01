@@ -12,3 +12,4 @@ const userScheme = new Schema(
 const User = mongoose.model("User", userScheme);
 
 export { User };
+// Validation: email must be unique, password min 8 chars with special characters
