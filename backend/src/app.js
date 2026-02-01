@@ -37,3 +37,4 @@ const start = async () => {
 
 
 start();
+// CORS Configuration: Allow cross-origin requests from frontend application
