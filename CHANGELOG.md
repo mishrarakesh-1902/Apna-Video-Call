@@ -11,3 +11,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-01 13:45:00] Add socket authentication middleware
 - Implemented socket authentication to verify users before connections
+
+### [2026-02-01 15:00:00] Document meeting model schema
+- Added detailed documentation for meeting data model and schema fields

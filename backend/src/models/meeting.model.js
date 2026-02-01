@@ -12,3 +12,4 @@ const meetingSchema = new Schema(
 const Meeting = mongoose.model("Meeting", meetingSchema);
 
 export { Meeting };
+// Meeting Schema: room_id, host, participants[], start_time, end_time, status
