@@ -38,3 +38,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 16:00:00] Add authentication form documentation
 - Documented form validation logic and user feedback for authentication page
+
+### [2026-02-02 17:30:00] Document meeting history feature
+- Added documentation for meeting history display and data fetching logic
