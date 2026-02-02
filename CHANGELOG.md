@@ -23,3 +23,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-01 19:00:00] Add App component routing documentation
 - Documented React Router configuration and protected route setup
+
+### [2026-02-02 09:30:00] Add CSS transitions for better UX
+- Added smooth CSS transitions for interactive elements throughout the app
