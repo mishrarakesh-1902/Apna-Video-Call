@@ -29,3 +29,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 11:00:00] Enhance AuthContext error handling
 - Improved authentication context with better error messages and state management
+
+### [2026-02-02 13:15:00] Add environment configuration documentation
+- Documented environment variables and their usage across environments

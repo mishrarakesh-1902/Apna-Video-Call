@@ -6,3 +6,4 @@ const server = IS_PROD ?
 
 
 export default server;
+// Env vars: REACT_APP_API_URL, REACT_APP_SOCKET_URL, REACT_APP_ENV
