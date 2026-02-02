@@ -35,3 +35,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 14:45:00] Document VideoMeet WebRTC integration
 - Added documentation for WebRTC peer connection setup and media streams
+
+### [2026-02-02 16:00:00] Add authentication form documentation
+- Documented form validation logic and user feedback for authentication page

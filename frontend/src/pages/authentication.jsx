@@ -173,3 +173,4 @@ export default function Authentication() {
         </ThemeProvider>
     );
 }
+// Form: email validation, password strength meter, error display, loading state
