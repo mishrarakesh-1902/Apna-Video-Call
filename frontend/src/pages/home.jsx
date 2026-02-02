@@ -74,3 +74,4 @@ function HomeComponent() {
 
 
 export default withAuth(HomeComponent)
+// Dashboard: Quick join by ID, create new meeting, view scheduled meetings

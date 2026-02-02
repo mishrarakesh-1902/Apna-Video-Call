@@ -41,3 +41,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 17:30:00] Document meeting history feature
 - Added documentation for meeting history display and data fetching logic
+
+### [2026-02-02 19:15:00] Add home dashboard documentation
+- Documented home dashboard layout and meeting creation/join functionality
