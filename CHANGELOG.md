@@ -32,3 +32,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 13:15:00] Add environment configuration documentation
 - Documented environment variables and their usage across environments
+
+### [2026-02-02 14:45:00] Document VideoMeet WebRTC integration
+- Added documentation for WebRTC peer connection setup and media streams

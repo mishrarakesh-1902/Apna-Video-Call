@@ -552,3 +552,5 @@ export default function VideoMeetComponent() {
         </div>
     )
 }
+
+// WebRTC: Uses RTCPeerConnection for P2P video/audio, Socket.IO for signaling
