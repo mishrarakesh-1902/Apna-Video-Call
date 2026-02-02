@@ -96,3 +96,5 @@ export const AuthProvider = ({ children }) => {
     )
 
 }
+
+// AuthContext provides: { user, login, logout, register, isLoading, error }

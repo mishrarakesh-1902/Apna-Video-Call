@@ -26,3 +26,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 09:30:00] Add CSS transitions for better UX
 - Added smooth CSS transitions for interactive elements throughout the app
+
+### [2026-02-02 11:00:00] Enhance AuthContext error handling
+- Improved authentication context with better error messages and state management
