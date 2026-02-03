@@ -62,3 +62,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 17:00:00] Add room management documentation
 - Documented socket room management including join, leave, and cleanup
+
+### [2026-02-03 18:30:00] Add meeting participant limits
+- Added maximum participant limit configuration for meetings

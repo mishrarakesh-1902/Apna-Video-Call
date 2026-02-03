@@ -13,3 +13,5 @@ const Meeting = mongoose.model("Meeting", meetingSchema);
 
 export { Meeting };
 // Meeting Schema: room_id, host, participants[], start_time, end_time, status
+
+// Limits: Max 50 participants per meeting. Free tier: 10. Premium: 50
