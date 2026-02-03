@@ -47,3 +47,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 08:45:00] Add landing page section documentation
 - Documented landing page sections including hero, features, testimonials, CTA
+
+### [2026-02-03 10:30:00] Document video component CSS structure
+- Added CSS module documentation for video conference layout and controls
