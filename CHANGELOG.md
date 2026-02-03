@@ -59,3 +59,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 15:45:00] Add JWT token refresh logic
 - Implemented JWT token refresh mechanism to maintain user sessions
+
+### [2026-02-03 17:00:00] Add room management documentation
+- Documented socket room management including join, leave, and cleanup
