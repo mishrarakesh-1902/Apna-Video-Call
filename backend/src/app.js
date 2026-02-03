@@ -38,3 +38,5 @@ const start = async () => {
 
 start();
 // CORS Configuration: Allow cross-origin requests from frontend application
+
+// Rate Limiting: 100 requests per 15 min per IP for auth, 1000 for general API

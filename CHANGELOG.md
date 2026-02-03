@@ -53,3 +53,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 12:00:00] Document withAuth HOC implementation
 - Documented higher-order component for route protection and auth checking
+
+### [2026-02-03 14:15:00] Add rate limiting middleware documentation
+- Added rate limiting to prevent API abuse and improve security
