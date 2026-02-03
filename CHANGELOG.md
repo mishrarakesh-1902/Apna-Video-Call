@@ -50,3 +50,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 10:30:00] Document video component CSS structure
 - Added CSS module documentation for video conference layout and controls
+
+### [2026-02-03 12:00:00] Document withAuth HOC implementation
+- Documented higher-order component for route protection and auth checking
