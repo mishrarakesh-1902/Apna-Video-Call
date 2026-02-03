@@ -56,3 +56,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 14:15:00] Add rate limiting middleware documentation
 - Added rate limiting to prevent API abuse and improve security
+
+### [2026-02-03 15:45:00] Add JWT token refresh logic
+- Implemented JWT token refresh mechanism to maintain user sessions
