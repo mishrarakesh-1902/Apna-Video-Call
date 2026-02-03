@@ -44,3 +44,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-02 19:15:00] Add home dashboard documentation
 - Documented home dashboard layout and meeting creation/join functionality
+
+### [2026-02-03 08:45:00] Add landing page section documentation
+- Documented landing page sections including hero, features, testimonials, CTA

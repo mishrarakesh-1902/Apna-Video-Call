@@ -51,3 +51,5 @@ export default function LandingPage() {
         </div>
     )
 }
+
+// Landing: Hero -> Features (6 items) -> Testimonials -> CTA -> Footer
