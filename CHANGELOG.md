@@ -77,3 +77,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 14:30:00] Add responsive design breakpoints
 - Documented responsive design breakpoints for mobile, tablet, and desktop
+
+### [2026-02-04 16:15:00] Add token refresh to AuthContext
+- Implemented automatic token refresh in authentication context
