@@ -80,3 +80,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 16:15:00] Add token refresh to AuthContext
 - Implemented automatic token refresh in authentication context
+
+### [2026-02-04 17:45:00] Add API base URL configuration
+- Added configurable API base URL for different deployment environments
