@@ -74,3 +74,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 13:00:00] Add error boundary to App component
 - Added React Error Boundary for graceful error handling in the UI
+
+### [2026-02-04 14:30:00] Add responsive design breakpoints
+- Documented responsive design breakpoints for mobile, tablet, and desktop
