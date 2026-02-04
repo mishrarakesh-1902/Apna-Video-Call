@@ -83,3 +83,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 17:45:00] Add API base URL configuration
 - Added configurable API base URL for different deployment environments
+
+### [2026-02-04 19:30:00] Add WebRTC ICE server documentation
+- Added detailed comments for WebRTC peer connection initialization
