@@ -65,3 +65,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-03 18:30:00] Add meeting participant limits
 - Added maximum participant limit configuration for meetings
+
+### [2026-02-04 09:00:00] Add password hashing documentation
+- Documented bcrypt password hashing implementation with salt rounds

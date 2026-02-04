@@ -13,3 +13,5 @@ const User = mongoose.model("User", userScheme);
 
 export { User };
 // Validation: email must be unique, password min 8 chars with special characters
+
+// Security: Passwords hashed with bcrypt (12 salt rounds) before storage
