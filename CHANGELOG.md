@@ -68,3 +68,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 09:00:00] Add password hashing documentation
 - Documented bcrypt password hashing implementation with salt rounds
+
+### [2026-02-04 11:15:00] Add login route documentation
+- Added comprehensive documentation for login endpoint with JWT response
