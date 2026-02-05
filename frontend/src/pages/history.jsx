@@ -88,3 +88,5 @@ export default function History() {
 }
 
 // History: Fetches and displays paginated list of past meetings with filters
+
+// Filters: by date range, meeting duration, participant count, host/participant role
