@@ -86,3 +86,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-04 19:30:00] Add WebRTC ICE server documentation
 - Added detailed comments for WebRTC peer connection initialization
+
+### [2026-02-05 08:30:00] Add form validation documentation
+- Documented client-side form validation rules for authentication

@@ -174,3 +174,5 @@ export default function Authentication() {
     );
 }
 // Form: email validation, password strength meter, error display, loading state
+
+// Validation: email regex, min 8 char password, uppercase+number+special required
