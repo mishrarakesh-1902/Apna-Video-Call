@@ -101,3 +101,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-05 15:30:00] Add button hover and focus effects
 - Added interactive button hover effects and focus states for accessibility
+
+### [2026-02-05 17:15:00] Document protected route HOC behavior
+- Documented withAuth HOC behavior for protected routes

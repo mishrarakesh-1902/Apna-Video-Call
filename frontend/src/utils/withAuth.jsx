@@ -26,3 +26,5 @@ const withAuth = (WrappedComponent ) => {
 
 export default withAuth;
 // HOC: Checks auth token, redirects to /auth if not authenticated, else renders
+
+// Behavior: localStorage token check -> API verify -> redirect or render component
