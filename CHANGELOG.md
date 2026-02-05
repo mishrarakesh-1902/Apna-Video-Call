@@ -95,3 +95,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-05 12:30:00] Add meeting creation flow documentation
 - Documented meeting creation flow including room ID generation
+
+### [2026-02-05 14:00:00] Document landing hero section
+- Added documentation for hero section with animation and CTA buttons
