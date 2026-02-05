@@ -75,3 +75,5 @@ function HomeComponent() {
 
 export default withAuth(HomeComponent)
 // Dashboard: Quick join by ID, create new meeting, view scheduled meetings
+
+// Create Meeting: Generates UUID room ID, sets up meeting in DB, copies invite link
