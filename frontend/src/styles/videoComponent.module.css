@@ -60,3 +60,5 @@
     bottom: 0;
 }
 /* Video Grid: CSS Grid layout with auto-fit columns for dynamic participant count */
+
+/* Controls: btn hover scales 1.05, active scales 0.98, focus shows blue outline */

@@ -98,3 +98,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-05 14:00:00] Document landing hero section
 - Added documentation for hero section with animation and CTA buttons
+
+### [2026-02-05 15:30:00] Add button hover and focus effects
+- Added interactive button hover effects and focus states for accessibility
