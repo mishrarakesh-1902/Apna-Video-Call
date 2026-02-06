@@ -122,3 +122,5 @@ export const connectToSocket = (server) => {
 // Socket Auth: Verify JWT token before establishing socket connection
 
 // Rooms: Users join room by meeting ID. Room cleaned up when last user leaves
+
+// Disconnect: Notify other participants, update meeting status, cleanup streams

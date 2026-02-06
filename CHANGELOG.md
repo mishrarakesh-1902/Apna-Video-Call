@@ -110,3 +110,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 09:15:00] Add session management documentation
 - Documented server-side session management and token invalidation
+
+### [2026-02-06 11:00:00] Add disconnect handling to socket manager
+- Added graceful disconnect handling for unexpected connection drops
