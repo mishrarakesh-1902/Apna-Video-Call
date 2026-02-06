@@ -113,3 +113,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 11:00:00] Add disconnect handling to socket manager
 - Added graceful disconnect handling for unexpected connection drops
+
+### [2026-02-06 12:45:00] Add database index optimization
+- Added compound indexes to meeting model for faster query performance

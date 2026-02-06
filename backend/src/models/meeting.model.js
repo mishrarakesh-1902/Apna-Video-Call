@@ -15,3 +15,5 @@ export { Meeting };
 // Meeting Schema: room_id, host, participants[], start_time, end_time, status
 
 // Limits: Max 50 participants per meeting. Free tier: 10. Premium: 50
+
+// Indexes: { room_id: 1 }, { host: 1, start_time: -1 }, { participants: 1 }
