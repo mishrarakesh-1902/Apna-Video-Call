@@ -116,3 +116,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 12:45:00] Add database index optimization
 - Added compound indexes to meeting model for faster query performance
+
+### [2026-02-06 14:30:00] Add email validation middleware
+- Documented Mongoose email validation with custom error messages
