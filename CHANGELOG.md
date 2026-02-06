@@ -122,3 +122,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 16:00:00] Add middleware chain documentation
 - Documented Express middleware chain order and purpose
+
+### [2026-02-06 17:30:00] Add React Router v6 configuration
+- Documented React Router v6 configuration with nested routes

@@ -38,3 +38,5 @@ export default App;
 // Routes: /, /auth, /home, /meeting/:id, /history - Protected routes require auth
 
 // Error Boundary: Catches render errors, shows fallback UI, logs to monitoring
+
+// Router: BrowserRouter, lazy-loaded routes, Suspense with skeleton fallback
