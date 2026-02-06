@@ -14,3 +14,5 @@ export default router;
 // Routes: POST /register, POST /login, GET /profile, PUT /update, DELETE /account
 
 // POST /login: Returns { token, refreshToken, user: { id, name, email } }
+
+// Middleware chain: cors -> helmet -> rateLimit -> auth -> validation -> controller

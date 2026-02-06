@@ -119,3 +119,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 14:30:00] Add email validation middleware
 - Documented Mongoose email validation with custom error messages
+
+### [2026-02-06 16:00:00] Add middleware chain documentation
+- Documented Express middleware chain order and purpose
