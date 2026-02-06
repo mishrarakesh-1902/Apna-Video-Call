@@ -102,3 +102,5 @@ export { login, register, getUserHistory, addToHistory }
 // Input Validation: Check required fields before processing user requests
 
 // JWT: Access token expires in 1h, refresh token in 7d. Auto-refresh on expiry
+
+// Sessions: Token blacklist on logout, Redis cache for active sessions

@@ -107,3 +107,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-05 19:00:00] Add health check endpoint documentation
 - Added /health endpoint for monitoring service availability
+
+### [2026-02-06 09:15:00] Add session management documentation
+- Documented server-side session management and token invalidation
