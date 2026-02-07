@@ -77,3 +77,5 @@ export default withAuth(HomeComponent)
 // Dashboard: Quick join by ID, create new meeting, view scheduled meetings
 
 // Create Meeting: Generates UUID room ID, sets up meeting in DB, copies invite link
+
+// Quick Join: 9-digit meeting ID input, validates format before joining room

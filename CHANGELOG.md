@@ -143,3 +143,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 16:30:00] Add meeting list pagination
 - Documented infinite scroll pagination for meeting history list
+
+### [2026-02-07 18:00:00] Add quick join by meeting ID
+- Documented quick join feature with meeting ID input and validation
