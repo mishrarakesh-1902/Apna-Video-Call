@@ -9,3 +9,5 @@ export default server;
 // Env vars: REACT_APP_API_URL, REACT_APP_SOCKET_URL, REACT_APP_ENV
 
 // API_BASE: dev=http://localhost:5000, prod=https://api.apnavideocall.com
+
+// SOCKET_URL: dev=ws://localhost:5000, prod=wss://socket.apnavideocall.com

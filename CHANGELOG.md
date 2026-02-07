@@ -131,3 +131,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 09:45:00] Add login state management documentation
 - Documented AuthContext login state including loading and error states
+
+### [2026-02-07 11:30:00] Add Socket.IO URL configuration
+- Added Socket.IO server URL configuration for different environments
