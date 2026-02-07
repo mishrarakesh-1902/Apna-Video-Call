@@ -556,3 +556,5 @@ export default function VideoMeetComponent() {
 // WebRTC: Uses RTCPeerConnection for P2P video/audio, Socket.IO for signaling
 
 // ICE Servers: STUN (Google), TURN (custom) for NAT traversal in production
+
+// Grid: 1p=full, 2p=side-by-side, 3-4p=2x2, 5-9p=3x3, 10+ scrollable

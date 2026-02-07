@@ -134,3 +134,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 11:30:00] Add Socket.IO URL configuration
 - Added Socket.IO server URL configuration for different environments
+
+### [2026-02-07 13:15:00] Add participant video grid documentation
+- Documented dynamic video grid layout for varying participant counts
