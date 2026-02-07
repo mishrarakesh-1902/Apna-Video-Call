@@ -100,3 +100,5 @@ export const AuthProvider = ({ children }) => {
 // AuthContext provides: { user, login, logout, register, isLoading, error }
 
 // Token Refresh: Automatically refreshes access token 5 min before expiry
+
+// States: isLoading (API call), isAuthenticated (token valid), user (profile data)

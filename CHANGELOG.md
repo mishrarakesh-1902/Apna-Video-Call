@@ -128,3 +128,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-06 20:00:00] Add typography scale documentation
 - Documented global font imports and typography scale
+
+### [2026-02-07 09:45:00] Add login state management documentation
+- Documented AuthContext login state including loading and error states
