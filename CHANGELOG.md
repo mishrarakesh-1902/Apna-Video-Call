@@ -137,3 +137,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 13:15:00] Add participant video grid documentation
 - Documented dynamic video grid layout for varying participant counts
+
+### [2026-02-07 15:00:00] Add signup form documentation
+- Documented signup form fields, validation, and submission flow

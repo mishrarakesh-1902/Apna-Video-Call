@@ -176,3 +176,5 @@ export default function Authentication() {
 // Form: email validation, password strength meter, error display, loading state
 
 // Validation: email regex, min 8 char password, uppercase+number+special required
+
+// Signup fields: name (2-50 chars), email, password, confirm password, T&C checkbox
