@@ -140,3 +140,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 15:00:00] Add signup form documentation
 - Documented signup form fields, validation, and submission flow
+
+### [2026-02-07 16:30:00] Add meeting list pagination
+- Documented infinite scroll pagination for meeting history list
