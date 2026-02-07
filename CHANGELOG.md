@@ -146,3 +146,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 18:00:00] Add quick join by meeting ID
 - Documented quick join feature with meeting ID input and validation
+
+### [2026-02-07 19:45:00] Add features section documentation
+- Documented landing page features section with icons and descriptions

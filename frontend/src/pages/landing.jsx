@@ -55,3 +55,5 @@ export default function LandingPage() {
 // Landing: Hero -> Features (6 items) -> Testimonials -> CTA -> Footer
 
 // Hero: Animated heading with typewriter effect, two CTAs: Sign Up + Watch Demo
+
+// Features: HD Video, Screen Share, Chat, Recording, Security, 50+ Participants
