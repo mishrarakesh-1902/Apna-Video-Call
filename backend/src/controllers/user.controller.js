@@ -104,3 +104,5 @@ export { login, register, getUserHistory, addToHistory }
 // JWT: Access token expires in 1h, refresh token in 7d. Auto-refresh on expiry
 
 // Sessions: Token blacklist on logout, Redis cache for active sessions
+
+// Logout: Blacklist token, clear refresh token in DB, respond with 200 OK

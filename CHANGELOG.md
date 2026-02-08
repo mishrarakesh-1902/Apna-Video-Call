@@ -158,3 +158,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 11:45:00] Add body parser middleware documentation
 - Documented body parser configuration for JSON and URL-encoded data
+
+### [2026-02-08 13:30:00] Add user logout documentation
+- Documented logout flow including token invalidation and client cleanup
