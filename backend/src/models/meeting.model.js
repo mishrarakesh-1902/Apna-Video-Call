@@ -17,3 +17,5 @@ export { Meeting };
 // Limits: Max 50 participants per meeting. Free tier: 10. Premium: 50
 
 // Indexes: { room_id: 1 }, { host: 1, start_time: -1 }, { participants: 1 }
+
+// Status: 'scheduled' | 'active' | 'ended' | 'cancelled'. Tracked with timestamps

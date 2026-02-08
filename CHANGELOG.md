@@ -164,3 +164,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 15:00:00] Add chat event documentation
 - Documented socket events for real-time chat in video meetings
+
+### [2026-02-08 16:45:00] Add meeting status field documentation
+- Added meeting status tracking fields to meeting model
