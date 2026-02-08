@@ -149,3 +149,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-07 19:45:00] Add features section documentation
 - Documented landing page features section with icons and descriptions
+
+### [2026-02-08 08:15:00] Add video controls CSS documentation
+- Documented video control bar styling and icon button design
