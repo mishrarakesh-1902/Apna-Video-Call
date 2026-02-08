@@ -152,3 +152,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 08:15:00] Add video controls CSS documentation
 - Documented video control bar styling and icon button design
+
+### [2026-02-08 10:00:00] Add withAuth redirect logic documentation
+- Documented authentication redirect flow and return URL handling
