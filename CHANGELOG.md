@@ -161,3 +161,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 13:30:00] Add user logout documentation
 - Documented logout flow including token invalidation and client cleanup
+
+### [2026-02-08 15:00:00] Add chat event documentation
+- Documented socket events for real-time chat in video meetings

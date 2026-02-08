@@ -124,3 +124,5 @@ export const connectToSocket = (server) => {
 // Rooms: Users join room by meeting ID. Room cleaned up when last user leaves
 
 // Disconnect: Notify other participants, update meeting status, cleanup streams
+
+// Chat Events: send-message, receive-message, typing-start, typing-stop
