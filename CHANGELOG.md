@@ -155,3 +155,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 10:00:00] Add withAuth redirect logic documentation
 - Documented authentication redirect flow and return URL handling
+
+### [2026-02-08 11:45:00] Add body parser middleware documentation
+- Documented body parser configuration for JSON and URL-encoded data

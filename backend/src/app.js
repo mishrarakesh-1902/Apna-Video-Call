@@ -42,3 +42,5 @@ start();
 // Rate Limiting: 100 requests per 15 min per IP for auth, 1000 for general API
 
 // Health Check: GET /health returns { status: 'ok', uptime, timestamp }
+
+// Body Parser: JSON (10mb limit), URL-encoded (extended: true, limit: 10mb)
