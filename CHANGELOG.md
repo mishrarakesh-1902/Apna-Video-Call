@@ -167,3 +167,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 16:45:00] Add meeting status field documentation
 - Added meeting status tracking fields to meeting model
+
+### [2026-02-08 18:30:00] Add user profile fields documentation
+- Documented user profile schema including avatar and preferences

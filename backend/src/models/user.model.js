@@ -17,3 +17,5 @@ export { User };
 // Security: Passwords hashed with bcrypt (12 salt rounds) before storage
 
 // Email: Mongoose validator with regex, unique index, lowercase transform
+
+// Profile: { avatar: String, bio: String, timezone: String, notifications: Boolean }
