@@ -182,3 +182,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-09 14:30:00] Add user profile update to AuthContext
 - Added profile update method to authentication context
+
+### [2026-02-09 16:15:00] Add development mode configuration
+- Added development mode flag and debug configuration

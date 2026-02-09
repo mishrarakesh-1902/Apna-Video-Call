@@ -11,3 +11,5 @@ export default server;
 // API_BASE: dev=http://localhost:5000, prod=https://api.apnavideocall.com
 
 // SOCKET_URL: dev=ws://localhost:5000, prod=wss://socket.apnavideocall.com
+
+// DEV_MODE: Enable verbose logging, disable caching, show debug overlay tools
