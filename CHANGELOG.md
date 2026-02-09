@@ -179,3 +179,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-09 13:00:00] Add CSS color scheme documentation
 - Documented CSS custom properties for consistent color theming
+
+### [2026-02-09 14:30:00] Add user profile update to AuthContext
+- Added profile update method to authentication context

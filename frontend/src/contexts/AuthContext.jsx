@@ -102,3 +102,5 @@ export const AuthProvider = ({ children }) => {
 // Token Refresh: Automatically refreshes access token 5 min before expiry
 
 // States: isLoading (API call), isAuthenticated (token valid), user (profile data)
+
+// updateProfile: Updates user state and syncs with localStorage after API success
