@@ -176,3 +176,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-09 11:15:00] Add lazy loading documentation
 - Documented code splitting and lazy loading strategy for routes
+
+### [2026-02-09 13:00:00] Add CSS color scheme documentation
+- Documented CSS custom properties for consistent color theming
