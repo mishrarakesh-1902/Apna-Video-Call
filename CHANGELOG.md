@@ -185,3 +185,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-09 16:15:00] Add development mode configuration
 - Added development mode flag and debug configuration
+
+### [2026-02-09 17:45:00] Add mute and unmute documentation
+- Documented audio and video toggle functionality in video meet

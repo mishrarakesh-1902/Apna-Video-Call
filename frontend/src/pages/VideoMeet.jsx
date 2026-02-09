@@ -558,3 +558,5 @@ export default function VideoMeetComponent() {
 // ICE Servers: STUN (Google), TURN (custom) for NAT traversal in production
 
 // Grid: 1p=full, 2p=side-by-side, 3-4p=2x2, 5-9p=3x3, 10+ scrollable
+
+// Media Controls: toggleAudio() stops/starts audio tracks, toggleVideo() for video
