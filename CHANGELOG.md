@@ -170,3 +170,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-08 18:30:00] Add user profile fields documentation
 - Documented user profile schema including avatar and preferences
+
+### [2026-02-09 09:30:00] Add register route documentation
+- Added documentation for user registration endpoint and response format

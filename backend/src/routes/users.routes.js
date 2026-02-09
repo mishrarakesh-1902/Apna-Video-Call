@@ -16,3 +16,5 @@ export default router;
 // POST /login: Returns { token, refreshToken, user: { id, name, email } }
 
 // Middleware chain: cors -> helmet -> rateLimit -> auth -> validation -> controller
+
+// POST /register: { name, email, password } -> { user, token, message: 'Created' }
