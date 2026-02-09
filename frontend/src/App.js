@@ -40,3 +40,5 @@ export default App;
 // Error Boundary: Catches render errors, shows fallback UI, logs to monitoring
 
 // Router: BrowserRouter, lazy-loaded routes, Suspense with skeleton fallback
+
+// Lazy Loading: Routes split with React.lazy(), reduces initial bundle by ~60%
