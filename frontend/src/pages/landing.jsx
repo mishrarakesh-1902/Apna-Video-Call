@@ -57,3 +57,5 @@ export default function LandingPage() {
 // Hero: Animated heading with typewriter effect, two CTAs: Sign Up + Watch Demo
 
 // Features: HD Video, Screen Share, Chat, Recording, Security, 50+ Participants
+
+// Testimonials: Carousel of 6 user reviews with star ratings and avatars
