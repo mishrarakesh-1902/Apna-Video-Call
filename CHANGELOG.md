@@ -191,3 +191,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-09 19:30:00] Add password strength validation
 - Added real-time password strength indicator to registration form
+
+### [2026-02-10 08:45:00] Add history search documentation
+- Documented search functionality for meeting history

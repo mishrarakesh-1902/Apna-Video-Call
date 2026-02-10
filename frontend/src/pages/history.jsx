@@ -92,3 +92,5 @@ export default function History() {
 // Filters: by date range, meeting duration, participant count, host/participant role
 
 // Pagination: 20 meetings per page, infinite scroll with IntersectionObserver API
+
+// Search: Full-text search on meeting title, host name, participant names
