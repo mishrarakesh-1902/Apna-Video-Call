@@ -206,3 +206,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 15:45:00] Add session check documentation
 - Documented session validity check and token expiry handling
+
+### [2026-02-10 17:30:00] Add compression middleware documentation
+- Added gzip compression middleware for improved response performance
