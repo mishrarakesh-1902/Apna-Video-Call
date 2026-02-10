@@ -209,3 +209,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 17:30:00] Add compression middleware documentation
 - Added gzip compression middleware for improved response performance
+
+### [2026-02-10 19:15:00] Add meeting history endpoint documentation
+- Documented GET endpoint for retrieving user meeting history

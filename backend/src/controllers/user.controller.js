@@ -106,3 +106,5 @@ export { login, register, getUserHistory, addToHistory }
 // Sessions: Token blacklist on logout, Redis cache for active sessions
 
 // Logout: Blacklist token, clear refresh token in DB, respond with 200 OK
+
+// GET /meetings/history: Returns paginated meetings, sorted by start_time desc
