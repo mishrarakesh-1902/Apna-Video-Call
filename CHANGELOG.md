@@ -200,3 +200,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 12:15:00] Add testimonials section documentation
 - Documented landing page testimonials section with user reviews
+
+### [2026-02-10 14:00:00] Add sidebar panel CSS documentation
+- Documented side panel CSS for chat and participants list
