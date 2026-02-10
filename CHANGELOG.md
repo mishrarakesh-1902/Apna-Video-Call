@@ -194,3 +194,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 08:45:00] Add history search documentation
 - Documented search functionality for meeting history
+
+### [2026-02-10 10:30:00] Add schedule meeting documentation
+- Documented meeting scheduling feature with calendar integration
