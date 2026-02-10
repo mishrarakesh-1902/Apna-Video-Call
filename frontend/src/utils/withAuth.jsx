@@ -30,3 +30,5 @@ export default withAuth;
 // Behavior: localStorage token check -> API verify -> redirect or render component
 
 // Redirect: Save returnUrl to sessionStorage, redirect after successful login
+
+// Session Check: Verify token on mount, set interval to re-check every 5 minutes

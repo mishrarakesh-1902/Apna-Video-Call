@@ -203,3 +203,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 14:00:00] Add sidebar panel CSS documentation
 - Documented side panel CSS for chat and participants list
+
+### [2026-02-10 15:45:00] Add session check documentation
+- Documented session validity check and token expiry handling
