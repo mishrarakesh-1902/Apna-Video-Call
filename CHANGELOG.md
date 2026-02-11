@@ -212,3 +212,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-10 19:15:00] Add meeting history endpoint documentation
 - Documented GET endpoint for retrieving user meeting history
+
+### [2026-02-11 09:00:00] Add video room creation event
+- Added socket event for creating and initializing new video rooms
