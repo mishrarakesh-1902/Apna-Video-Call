@@ -215,3 +215,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 09:00:00] Add video room creation event
 - Added socket event for creating and initializing new video rooms
+
+### [2026-02-11 11:30:00] Add meeting end time tracking
+- Added automatic end time recording when meetings are terminated

@@ -19,3 +19,5 @@ export { Meeting };
 // Indexes: { room_id: 1 }, { host: 1, start_time: -1 }, { participants: 1 }
 
 // Status: 'scheduled' | 'active' | 'ended' | 'cancelled'. Tracked with timestamps
+
+// endTime: Automatically set when last participant leaves or host ends meeting
