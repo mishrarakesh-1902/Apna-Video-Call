@@ -227,3 +227,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 17:00:00] Add 404 page documentation
 - Added NotFound component for undefined routes
+
+### [2026-02-11 19:00:00] Add CSS animation keyframes
+- Added reusable CSS keyframe animations for UI feedback
