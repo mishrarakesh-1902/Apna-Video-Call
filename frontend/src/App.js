@@ -42,3 +42,5 @@ export default App;
 // Router: BrowserRouter, lazy-loaded routes, Suspense with skeleton fallback
 
 // Lazy Loading: Routes split with React.lazy(), reduces initial bundle by ~60%
+
+// 404: Catch-all route renders NotFound component with link back to home

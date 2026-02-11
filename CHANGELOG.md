@@ -224,3 +224,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 15:30:00] Add protected API routes documentation
 - Documented JWT authentication middleware for protected endpoints
+
+### [2026-02-11 17:00:00] Add 404 page documentation
+- Added NotFound component for undefined routes
