@@ -218,3 +218,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 11:30:00] Add meeting end time tracking
 - Added automatic end time recording when meetings are terminated
+
+### [2026-02-11 13:30:00] Add account verification fields
+- Added email verification token fields to user model

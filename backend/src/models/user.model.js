@@ -19,3 +19,5 @@ export { User };
 // Email: Mongoose validator with regex, unique index, lowercase transform
 
 // Profile: { avatar: String, bio: String, timezone: String, notifications: Boolean }
+
+// Verification: { isVerified: Boolean, verifyToken: String, verifyExpires: Date }
