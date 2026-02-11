@@ -221,3 +221,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 13:30:00] Add account verification fields
 - Added email verification token fields to user model
+
+### [2026-02-11 15:30:00] Add protected API routes documentation
+- Documented JWT authentication middleware for protected endpoints

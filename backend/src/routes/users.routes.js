@@ -18,3 +18,5 @@ export default router;
 // Middleware chain: cors -> helmet -> rateLimit -> auth -> validation -> controller
 
 // POST /register: { name, email, password } -> { user, token, message: 'Created' }
+
+// Protected: All /profile, /history, /meeting routes require valid JWT in header
