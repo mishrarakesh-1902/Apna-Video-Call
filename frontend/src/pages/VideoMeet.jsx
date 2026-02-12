@@ -560,3 +560,5 @@ export default function VideoMeetComponent() {
 // Grid: 1p=full, 2p=side-by-side, 3-4p=2x2, 5-9p=3x3, 10+ scrollable
 
 // Media Controls: toggleAudio() stops/starts audio tracks, toggleVideo() for video
+
+// Screen Share: getDisplayMedia() -> replace video track -> broadcast to all peers

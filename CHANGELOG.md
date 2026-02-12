@@ -236,3 +236,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 11:00:00] Add production API URL configuration
 - Configured production API endpoints for deployment
+
+### [2026-02-12 13:00:00] Add screen sharing documentation
+- Documented screen sharing implementation using getDisplayMedia API
