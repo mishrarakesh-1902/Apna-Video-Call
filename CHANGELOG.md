@@ -242,3 +242,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 15:00:00] Add remember me functionality
 - Documented remember me checkbox behavior for persistent login
+
+### [2026-02-12 17:00:00] Add meeting history export feature
+- Added CSV export functionality for meeting history records

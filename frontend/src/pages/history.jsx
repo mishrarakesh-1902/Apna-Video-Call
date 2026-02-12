@@ -94,3 +94,5 @@ export default function History() {
 // Pagination: 20 meetings per page, infinite scroll with IntersectionObserver API
 
 // Search: Full-text search on meeting title, host name, participant names
+
+// Export: Download meeting history as CSV with date, duration, participants list
