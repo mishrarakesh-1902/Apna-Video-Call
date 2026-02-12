@@ -245,3 +245,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 17:00:00] Add meeting history export feature
 - Added CSV export functionality for meeting history records
+
+### [2026-02-12 18:45:00] Add join by meeting ID documentation
+- Documented meeting join by ID flow with pre-join media check

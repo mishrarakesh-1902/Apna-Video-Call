@@ -81,3 +81,5 @@ export default withAuth(HomeComponent)
 // Quick Join: 9-digit meeting ID input, validates format before joining room
 
 // Schedule: Date/time picker, recurring options, calendar invite generation
+
+// Join: ID validation -> pre-join screen (camera/mic check) -> enter meeting room
