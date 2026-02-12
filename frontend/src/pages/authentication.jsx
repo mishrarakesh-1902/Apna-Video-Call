@@ -180,3 +180,5 @@ export default function Authentication() {
 // Signup fields: name (2-50 chars), email, password, confirm password, T&C checkbox
 
 // Strength Meter: checks length, uppercase, lowercase, numbers, special chars
+
+// Remember Me: Store refresh token for 30d if checked, 24h session if unchecked

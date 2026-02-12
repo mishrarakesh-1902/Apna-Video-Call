@@ -239,3 +239,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 13:00:00] Add screen sharing documentation
 - Documented screen sharing implementation using getDisplayMedia API
+
+### [2026-02-12 15:00:00] Add remember me functionality
+- Documented remember me checkbox behavior for persistent login
