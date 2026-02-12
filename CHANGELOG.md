@@ -233,3 +233,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 09:15:00] Add logout documentation to AuthContext
 - Documented logout flow including local storage cleanup
+
+### [2026-02-12 11:00:00] Add production API URL configuration
+- Configured production API endpoints for deployment

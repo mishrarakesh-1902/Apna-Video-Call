@@ -13,3 +13,5 @@ export default server;
 // SOCKET_URL: dev=ws://localhost:5000, prod=wss://socket.apnavideocall.com
 
 // DEV_MODE: Enable verbose logging, disable caching, show debug overlay tools
+
+// PROD: API at apnavideocall.com, CDN for static assets, WebSocket with SSL
