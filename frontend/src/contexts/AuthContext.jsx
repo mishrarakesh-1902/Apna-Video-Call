@@ -104,3 +104,5 @@ export const AuthProvider = ({ children }) => {
 // States: isLoading (API call), isAuthenticated (token valid), user (profile data)
 
 // updateProfile: Updates user state and syncs with localStorage after API success
+
+// logout: Clear localStorage, reset user state, cancel pending requests, redirect

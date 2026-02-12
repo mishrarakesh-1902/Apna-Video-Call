@@ -230,3 +230,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-11 19:00:00] Add CSS animation keyframes
 - Added reusable CSS keyframe animations for UI feedback
+
+### [2026-02-12 09:15:00] Add logout documentation to AuthContext
+- Documented logout flow including local storage cleanup
