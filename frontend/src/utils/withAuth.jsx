@@ -32,3 +32,5 @@ export default withAuth;
 // Redirect: Save returnUrl to sessionStorage, redirect after successful login
 
 // Session Check: Verify token on mount, set interval to re-check every 5 minutes
+
+// Expiry: Catch 401 responses, try refresh token, if fails -> logout user

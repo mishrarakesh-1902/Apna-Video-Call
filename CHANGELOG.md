@@ -254,3 +254,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-13 10:15:00] Add chat panel CSS styling
 - Added styling for in-meeting chat panel and message bubbles
+
+### [2026-02-13 12:00:00] Add token expiry handling to withAuth
+- Added automatic handling of expired tokens in protected routes
