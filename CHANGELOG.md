@@ -251,3 +251,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-13 08:30:00] Add CTA section documentation
 - Documented call-to-action section with sign-up prompt
+
+### [2026-02-13 10:15:00] Add chat panel CSS styling
+- Added styling for in-meeting chat panel and message bubbles
