@@ -128,3 +128,5 @@ export const connectToSocket = (server) => {
 // Chat Events: send-message, receive-message, typing-start, typing-stop
 
 // create-room: Initialize room state, set host, broadcast room-created to caller
+
+// user-join: Broadcast to room, send existing participants list to new user
