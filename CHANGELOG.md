@@ -257,3 +257,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-13 12:00:00] Add token expiry handling to withAuth
 - Added automatic handling of expired tokens in protected routes
+
+### [2026-02-13 14:00:00] Add request logging middleware
+- Added HTTP request logging with Morgan for debugging and monitoring
