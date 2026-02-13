@@ -248,3 +248,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-12 18:45:00] Add join by meeting ID documentation
 - Documented meeting join by ID flow with pre-join media check
+
+### [2026-02-13 08:30:00] Add CTA section documentation
+- Documented call-to-action section with sign-up prompt

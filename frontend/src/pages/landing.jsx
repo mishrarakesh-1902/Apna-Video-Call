@@ -59,3 +59,5 @@ export default function LandingPage() {
 // Features: HD Video, Screen Share, Chat, Recording, Security, 50+ Participants
 
 // Testimonials: Carousel of 6 user reviews with star ratings and avatars
+
+// CTA: 'Start Meeting Free' and 'Learn More' buttons with signup modal trigger
