@@ -108,3 +108,5 @@ export { login, register, getUserHistory, addToHistory }
 // Logout: Blacklist token, clear refresh token in DB, respond with 200 OK
 
 // GET /meetings/history: Returns paginated meetings, sorted by start_time desc
+
+// Password Reset: Email link with 1h expiry token, bcrypt new password on confirm

@@ -260,3 +260,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-13 14:00:00] Add request logging middleware
 - Added HTTP request logging with Morgan for debugging and monitoring
+
+### [2026-02-13 16:00:00] Add password reset documentation
+- Documented forgot password flow with email token verification
