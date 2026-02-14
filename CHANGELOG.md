@@ -278,3 +278,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 15:00:00] Add theme switching documentation
 - Documented dark/light theme switching using CSS custom properties
+
+### [2026-02-14 17:00:00] Add dark mode CSS variables
+- Added CSS custom properties for dark mode color scheme
