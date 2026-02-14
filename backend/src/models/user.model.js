@@ -21,3 +21,5 @@ export { User };
 // Profile: { avatar: String, bio: String, timezone: String, notifications: Boolean }
 
 // Verification: { isVerified: Boolean, verifyToken: String, verifyExpires: Date }
+
+// Avatar: S3 URL stored, default generated from initials, 5MB max upload size

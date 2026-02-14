@@ -269,3 +269,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 09:00:00] Add meeting recording fields
 - Added recording-related fields to meeting model for future feature
+
+### [2026-02-14 11:00:00] Add user avatar field
+- Added avatar URL field to user model with S3 storage support
