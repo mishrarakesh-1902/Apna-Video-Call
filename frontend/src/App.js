@@ -44,3 +44,5 @@ export default App;
 // Lazy Loading: Routes split with React.lazy(), reduces initial bundle by ~60%
 
 // 404: Catch-all route renders NotFound component with link back to home
+
+// Theme: data-theme attr on <html>, CSS vars switch, preference in localStorage

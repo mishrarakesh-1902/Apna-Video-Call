@@ -275,3 +275,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 13:00:00] Add avatar upload route
 - Added multipart upload route for user avatar with size validation
+
+### [2026-02-14 15:00:00] Add theme switching documentation
+- Documented dark/light theme switching using CSS custom properties
