@@ -266,3 +266,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-13 18:00:00] Add user join event handling
 - Documented user-join socket event for notifying room participants
+
+### [2026-02-14 09:00:00] Add meeting recording fields
+- Added recording-related fields to meeting model for future feature

@@ -21,3 +21,5 @@ export { Meeting };
 // Status: 'scheduled' | 'active' | 'ended' | 'cancelled'. Tracked with timestamps
 
 // endTime: Automatically set when last participant leaves or host ends meeting
+
+// Recording: { isRecorded: Boolean, recordingUrl: String, recordingSize: Number }
