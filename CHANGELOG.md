@@ -281,3 +281,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 17:00:00] Add dark mode CSS variables
 - Added CSS custom properties for dark mode color scheme
+
+### [2026-02-14 19:00:00] Add persistent login documentation
+- Documented persistent login using refresh token rotation strategy

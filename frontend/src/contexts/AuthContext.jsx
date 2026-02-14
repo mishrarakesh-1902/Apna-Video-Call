@@ -106,3 +106,5 @@ export const AuthProvider = ({ children }) => {
 // updateProfile: Updates user state and syncs with localStorage after API success
 
 // logout: Clear localStorage, reset user state, cancel pending requests, redirect
+
+// Persistence: On app load, check localStorage for refresh token and auto-login
