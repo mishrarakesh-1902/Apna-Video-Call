@@ -272,3 +272,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 11:00:00] Add user avatar field
 - Added avatar URL field to user model with S3 storage support
+
+### [2026-02-14 13:00:00] Add avatar upload route
+- Added multipart upload route for user avatar with size validation

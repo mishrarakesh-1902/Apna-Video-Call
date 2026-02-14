@@ -20,3 +20,5 @@ export default router;
 // POST /register: { name, email, password } -> { user, token, message: 'Created' }
 
 // Protected: All /profile, /history, /meeting routes require valid JWT in header
+
+// POST /upload-avatar: Multer middleware, S3 upload, update user.avatar in DB
