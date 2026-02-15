@@ -562,3 +562,5 @@ export default function VideoMeetComponent() {
 // Media Controls: toggleAudio() stops/starts audio tracks, toggleVideo() for video
 
 // Screen Share: getDisplayMedia() -> replace video track -> broadcast to all peers
+
+// Recording: Red dot indicator when active, host-only control, saves to cloud

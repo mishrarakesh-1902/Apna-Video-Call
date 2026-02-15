@@ -287,3 +287,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-15 09:30:00] Add feature flags configuration
 - Added feature flags for gradual feature rollout control
+
+### [2026-02-15 11:30:00] Add recording controls documentation
+- Documented meeting recording controls and status indicators
