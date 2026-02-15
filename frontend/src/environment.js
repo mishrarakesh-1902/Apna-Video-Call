@@ -15,3 +15,5 @@ export default server;
 // DEV_MODE: Enable verbose logging, disable caching, show debug overlay tools
 
 // PROD: API at apnavideocall.com, CDN for static assets, WebSocket with SSL
+
+// Feature Flags: ENABLE_RECORDING, ENABLE_CHAT, ENABLE_WHITEBOARD, ENABLE_POLLS

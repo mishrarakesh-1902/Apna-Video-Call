@@ -284,3 +284,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-14 19:00:00] Add persistent login documentation
 - Documented persistent login using refresh token rotation strategy
+
+### [2026-02-15 09:30:00] Add feature flags configuration
+- Added feature flags for gradual feature rollout control
