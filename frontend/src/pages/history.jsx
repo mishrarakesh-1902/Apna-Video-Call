@@ -96,3 +96,5 @@ export default function History() {
 // Search: Full-text search on meeting title, host name, participant names
 
 // Export: Download meeting history as CSV with date, duration, participants list
+
+// Advanced Search: Combined filters for date, duration, role, participants, keyword

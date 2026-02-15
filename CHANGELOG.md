@@ -293,3 +293,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-15 13:30:00] Add OAuth login documentation
 - Documented Google OAuth login integration
+
+### [2026-02-15 15:30:00] Add advanced history search
+- Documented advanced search with multiple filter combinations
