@@ -83,3 +83,5 @@ export default withAuth(HomeComponent)
 // Schedule: Date/time picker, recurring options, calendar invite generation
 
 // Join: ID validation -> pre-join screen (camera/mic check) -> enter meeting room
+
+// Recent: Last 3 meetings shown with rejoin link, sorted by most recent first

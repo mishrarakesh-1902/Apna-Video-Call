@@ -296,3 +296,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-15 15:30:00] Add advanced history search
 - Documented advanced search with multiple filter combinations
+
+### [2026-02-15 17:30:00] Add recent meetings section
+- Added recent meetings quick access section to home dashboard
