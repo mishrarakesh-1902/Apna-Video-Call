@@ -182,3 +182,5 @@ export default function Authentication() {
 // Strength Meter: checks length, uppercase, lowercase, numbers, special chars
 
 // Remember Me: Store refresh token for 30d if checked, 24h session if unchecked
+
+// OAuth: Google Sign-In button, handles token exchange, creates account if new user

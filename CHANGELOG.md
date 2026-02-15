@@ -290,3 +290,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-15 11:30:00] Add recording controls documentation
 - Documented meeting recording controls and status indicators
+
+### [2026-02-15 13:30:00] Add OAuth login documentation
+- Documented Google OAuth login integration
