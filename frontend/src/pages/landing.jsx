@@ -61,3 +61,5 @@ export default function LandingPage() {
 // Testimonials: Carousel of 6 user reviews with star ratings and avatars
 
 // CTA: 'Start Meeting Free' and 'Learn More' buttons with signup modal trigger
+
+// Footer: Company info, Product/Company/Legal links, social icons, copyright 2026
