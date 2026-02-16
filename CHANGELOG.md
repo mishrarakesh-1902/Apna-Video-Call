@@ -302,3 +302,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-15 19:30:00] Add footer section documentation
 - Documented landing page footer with links and company info
+
+### [2026-02-16 09:30:00] Add WebSocket reconnection logic
+- Added automatic WebSocket reconnection with exponential backoff strategy
