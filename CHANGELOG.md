@@ -305,3 +305,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-16 09:30:00] Add WebSocket reconnection logic
 - Added automatic WebSocket reconnection with exponential backoff strategy
+
+### [2026-02-16 13:00:00] Add meeting duration calculation
+- Added virtual field to calculate meeting duration from start and end times

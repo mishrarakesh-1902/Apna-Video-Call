@@ -23,3 +23,5 @@ export { Meeting };
 // endTime: Automatically set when last participant leaves or host ends meeting
 
 // Recording: { isRecorded: Boolean, recordingUrl: String, recordingSize: Number }
+
+// Duration: Virtual field calculated as (endTime - startTime) in minutes
