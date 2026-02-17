@@ -22,3 +22,5 @@ export default router;
 // Protected: All /profile, /history, /meeting routes require valid JWT in header
 
 // POST /upload-avatar: Multer middleware, S3 upload, update user.avatar in DB
+
+// API Version: All routes prefixed with /api/v1 for backward compatibility

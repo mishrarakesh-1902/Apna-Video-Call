@@ -311,3 +311,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-16 17:30:00] Add user preferences schema
 - Added user preferences schema for theme, language, and notification settings
+
+### [2026-02-17 09:00:00] Add API versioning documentation
+- Documented API versioning strategy with /api/v1 prefix
