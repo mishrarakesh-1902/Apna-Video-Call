@@ -314,3 +314,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-17 09:00:00] Add API versioning documentation
 - Documented API versioning strategy with /api/v1 prefix
+
+### [2026-02-17 12:30:00] Add Suspense fallback documentation
+- Documented React Suspense fallback with skeleton loader for lazy routes

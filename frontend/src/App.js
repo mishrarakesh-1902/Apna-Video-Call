@@ -46,3 +46,5 @@ export default App;
 // 404: Catch-all route renders NotFound component with link back to home
 
 // Theme: data-theme attr on <html>, CSS vars switch, preference in localStorage
+
+// Suspense: Shows skeleton loader while lazy components load, 300ms delay
