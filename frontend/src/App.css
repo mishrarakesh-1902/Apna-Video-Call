@@ -105,3 +105,5 @@
 /* Animations: fadeIn 0.3s, slideUp 0.4s, pulse 1.5s infinite for loading state */
 
 /* Dark Mode: --bg: #121212, --surface: #1e1e1e, --text: #e0e0e0, --border: #333 */
+
+/* Z-index Scale: modal=1000, overlay=900, dropdown=800, sticky=700, base=1 */
