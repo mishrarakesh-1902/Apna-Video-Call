@@ -564,3 +564,5 @@ export default function VideoMeetComponent() {
 // Screen Share: getDisplayMedia() -> replace video track -> broadcast to all peers
 
 // Recording: Red dot indicator when active, host-only control, saves to cloud
+
+// End Call: Stop all tracks, close peer connections, leave socket room, redirect

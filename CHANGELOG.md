@@ -326,3 +326,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-18 13:30:00] Add timeout configuration documentation
 - Added configurable timeout values for API, socket, and upload operations
+
+### [2026-02-18 17:45:00] Add end call cleanup documentation
+- Documented end call cleanup flow including track stopping and peer connection close
