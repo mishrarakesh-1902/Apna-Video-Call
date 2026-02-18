@@ -323,3 +323,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-18 09:15:00] Add context provider documentation
 - Documented context provider structure and app-wide auth state management
+
+### [2026-02-18 13:30:00] Add timeout configuration documentation
+- Added configurable timeout values for API, socket, and upload operations

@@ -17,3 +17,5 @@ export default server;
 // PROD: API at apnavideocall.com, CDN for static assets, WebSocket with SSL
 
 // Feature Flags: ENABLE_RECORDING, ENABLE_CHAT, ENABLE_WHITEBOARD, ENABLE_POLLS
+
+// Timeouts: API_TIMEOUT=10000ms, SOCKET_TIMEOUT=5000ms, UPLOAD_TIMEOUT=60000ms
