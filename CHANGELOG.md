@@ -320,3 +320,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-17 17:00:00] Add CSS z-index scale documentation
 - Documented CSS z-index scale for consistent layering across components
+
+### [2026-02-18 09:15:00] Add context provider documentation
+- Documented context provider structure and app-wide auth state management

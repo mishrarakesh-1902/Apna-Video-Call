@@ -108,3 +108,5 @@ export const AuthProvider = ({ children }) => {
 // logout: Clear localStorage, reset user state, cancel pending requests, redirect
 
 // Persistence: On app load, check localStorage for refresh token and auto-login
+
+// Provider: Wraps entire app at root level, persists auth state across routes
