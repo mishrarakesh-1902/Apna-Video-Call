@@ -184,3 +184,5 @@ export default function Authentication() {
 // Remember Me: Store refresh token for 30d if checked, 24h session if unchecked
 
 // OAuth: Google Sign-In button, handles token exchange, creates account if new user
+
+// Forgot Password: Email input, rate limited to 3 requests/hour, 1h link expiry

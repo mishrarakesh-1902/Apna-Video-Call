@@ -329,3 +329,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-18 17:45:00] Add end call cleanup documentation
 - Documented end call cleanup flow including track stopping and peer connection close
+
+### [2026-02-19 08:30:00] Add forgot password form documentation
+- Documented forgot password form with rate limiting and email link expiry
