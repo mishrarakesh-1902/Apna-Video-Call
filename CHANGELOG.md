@@ -335,3 +335,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-19 12:00:00] Add history sort options documentation
 - Documented meeting history sort options including date, duration, and participants
+
+### [2026-02-19 16:30:00] Add copy invite link documentation
+- Documented copy invite link feature with clipboard API and toast notification

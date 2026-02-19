@@ -85,3 +85,5 @@ export default withAuth(HomeComponent)
 // Join: ID validation -> pre-join screen (camera/mic check) -> enter meeting room
 
 // Recent: Last 3 meetings shown with rejoin link, sorted by most recent first
+
+// Invite: Copy meeting link to clipboard, shows toast 'Copied!' for 2 seconds
