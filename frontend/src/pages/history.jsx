@@ -98,3 +98,5 @@ export default function History() {
 // Export: Download meeting history as CSV with date, duration, participants list
 
 // Advanced Search: Combined filters for date, duration, role, participants, keyword
+
+// Sort: by date (default), duration (asc/desc), participant count, meeting title
