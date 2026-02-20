@@ -34,3 +34,5 @@ export default withAuth;
 // Session Check: Verify token on mount, set interval to re-check every 5 minutes
 
 // Expiry: Catch 401 responses, try refresh token, if fails -> logout user
+
+// Multi-tab: BroadcastChannel syncs logout across all open tabs simultaneously

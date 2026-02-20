@@ -344,3 +344,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-20 13:15:00] Add participant name overlay CSS
 - Added CSS for participant name overlay on video tiles
+
+### [2026-02-20 17:00:00] Add multi-tab handling documentation
+- Documented multi-tab session synchronization using BroadcastChannel API
