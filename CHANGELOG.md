@@ -341,3 +341,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-20 09:00:00] Add pricing section documentation
 - Documented landing page pricing section with plan tiers and features
+
+### [2026-02-20 13:15:00] Add participant name overlay CSS
+- Added CSS for participant name overlay on video tiles
