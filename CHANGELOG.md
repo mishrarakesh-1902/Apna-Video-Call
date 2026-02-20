@@ -338,3 +338,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-19 16:30:00] Add copy invite link documentation
 - Documented copy invite link feature with clipboard API and toast notification
+
+### [2026-02-20 09:00:00] Add pricing section documentation
+- Documented landing page pricing section with plan tiers and features

@@ -63,3 +63,5 @@ export default function LandingPage() {
 // CTA: 'Start Meeting Free' and 'Learn More' buttons with signup modal trigger
 
 // Footer: Company info, Product/Company/Legal links, social icons, copyright 2026
+
+// Pricing: Free (10 users, 40min), Pro (50 users, unlimited), Enterprise (custom)
