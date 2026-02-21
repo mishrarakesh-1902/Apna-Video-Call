@@ -48,3 +48,5 @@ start();
 // Compression: gzip for responses >1kb, ~70% size reduction on JSON responses
 
 // Logging: Morgan 'combined' format in prod, 'dev' format in development mode
+
+// Helmet: Sets security headers - CSP, HSTS, X-Frame-Options, X-XSS-Protection

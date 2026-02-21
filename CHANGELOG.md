@@ -347,3 +347,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-20 17:00:00] Add multi-tab handling documentation
 - Documented multi-tab session synchronization using BroadcastChannel API
+
+### [2026-02-21 09:30:00] Add helmet security middleware
+- Added Helmet.js security middleware for HTTP security headers
