@@ -350,3 +350,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-21 09:30:00] Add helmet security middleware
 - Added Helmet.js security middleware for HTTP security headers
+
+### [2026-02-21 13:00:00] Add user last login tracking
+- Added last login timestamp tracking on every successful authentication

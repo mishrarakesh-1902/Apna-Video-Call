@@ -110,3 +110,5 @@ export { login, register, getUserHistory, addToHistory }
 // GET /meetings/history: Returns paginated meetings, sorted by start_time desc
 
 // Password Reset: Email link with 1h expiry token, bcrypt new password on confirm
+
+// Last Login: Update user.lastLoginAt on each successful authentication
