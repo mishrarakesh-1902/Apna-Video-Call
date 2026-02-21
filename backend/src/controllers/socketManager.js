@@ -132,3 +132,5 @@ export const connectToSocket = (server) => {
 // user-join: Broadcast to room, send existing participants list to new user
 
 // Reconnection: Auto-reconnect on disconnect with exponential backoff (max 5 retries)
+
+// SDP: offer -> answer exchange via socket for WebRTC peer connection setup
