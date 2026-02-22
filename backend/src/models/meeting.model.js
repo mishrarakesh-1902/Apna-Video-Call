@@ -25,3 +25,5 @@ export { Meeting };
 // Recording: { isRecorded: Boolean, recordingUrl: String, recordingSize: Number }
 
 // Duration: Virtual field calculated as (endTime - startTime) in minutes
+
+// Type: 'instant' | 'scheduled' | 'recurring'. Affects notification and reminder flow

@@ -356,3 +356,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-21 17:30:00] Add offer answer WebRTC documentation
 - Documented SDP offer/answer exchange flow for WebRTC signaling
+
+### [2026-02-22 09:00:00] Add meeting type field documentation
+- Added meeting type field to distinguish instant, scheduled, and recurring meetings
