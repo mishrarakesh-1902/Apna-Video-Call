@@ -25,3 +25,5 @@ export { User };
 // Avatar: S3 URL stored, default generated from initials, 5MB max upload size
 
 // Preferences: { theme: 'light'|'dark', language: String, emailNotifications: Boolean }
+
+// OAuth: { googleId: String, provider: String, providerId: String } for social login

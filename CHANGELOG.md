@@ -359,3 +359,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-22 09:00:00] Add meeting type field documentation
 - Added meeting type field to distinguish instant, scheduled, and recurring meetings
+
+### [2026-02-22 13:30:00] Add social login fields documentation
+- Added OAuth social login fields to user model for Google sign-in support
