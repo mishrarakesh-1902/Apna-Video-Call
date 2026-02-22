@@ -362,3 +362,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-22 13:30:00] Add social login fields documentation
 - Added OAuth social login fields to user model for Google sign-in support
+
+### [2026-02-22 18:00:00] Add API error response documentation
+- Documented standardized API error response format across all endpoints

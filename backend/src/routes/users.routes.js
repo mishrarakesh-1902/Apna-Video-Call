@@ -24,3 +24,5 @@ export default router;
 // POST /upload-avatar: Multer middleware, S3 upload, update user.avatar in DB
 
 // API Version: All routes prefixed with /api/v1 for backward compatibility
+
+// Error Responses: { error: String, code: Number, details: Object } standard format
