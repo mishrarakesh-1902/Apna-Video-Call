@@ -110,3 +110,5 @@ export const AuthProvider = ({ children }) => {
 // Persistence: On app load, check localStorage for refresh token and auto-login
 
 // Provider: Wraps entire app at root level, persists auth state across routes
+
+// Toast: Error shown via toast notification, auto-dismisses after 4 seconds

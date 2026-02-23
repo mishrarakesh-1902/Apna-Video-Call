@@ -371,3 +371,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-23 12:45:00] Add loading spinner CSS documentation
 - Added CSS for global loading spinner component
+
+### [2026-02-23 17:15:00] Add error toast notification documentation
+- Documented toast notification system for auth error feedback
