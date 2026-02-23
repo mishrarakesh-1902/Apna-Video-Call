@@ -48,3 +48,5 @@ export default App;
 // Theme: data-theme attr on <html>, CSS vars switch, preference in localStorage
 
 // Suspense: Shows skeleton loader while lazy components load, 300ms delay
+
+// Global State: AuthContext + MeetingContext + ThemeContext wrap the app at root

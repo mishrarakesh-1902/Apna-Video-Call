@@ -365,3 +365,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-22 18:00:00] Add API error response documentation
 - Documented standardized API error response format across all endpoints
+
+### [2026-02-23 09:15:00] Add global state documentation
+- Documented global state architecture using multiple React contexts
