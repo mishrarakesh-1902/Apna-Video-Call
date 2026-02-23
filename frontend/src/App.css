@@ -107,3 +107,5 @@
 /* Dark Mode: --bg: #121212, --surface: #1e1e1e, --text: #e0e0e0, --border: #333 */
 
 /* Z-index Scale: modal=1000, overlay=900, dropdown=800, sticky=700, base=1 */
+
+/* Spinner: 40px circle, border-top primary color, spins 0.8s linear infinite */

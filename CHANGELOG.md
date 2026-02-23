@@ -368,3 +368,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-23 09:15:00] Add global state documentation
 - Documented global state architecture using multiple React contexts
+
+### [2026-02-23 12:45:00] Add loading spinner CSS documentation
+- Added CSS for global loading spinner component
