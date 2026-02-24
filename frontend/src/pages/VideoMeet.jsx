@@ -566,3 +566,5 @@ export default function VideoMeetComponent() {
 // Recording: Red dot indicator when active, host-only control, saves to cloud
 
 // End Call: Stop all tracks, close peer connections, leave socket room, redirect
+
+// Virtual BG: TensorFlow.js body segmentation for background blur/replace

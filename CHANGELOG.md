@@ -377,3 +377,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-24 10:00:00] Add retry logic documentation
 - Added exponential backoff retry logic configuration for failed API requests
+
+### [2026-02-24 15:30:00] Add virtual background documentation
+- Documented virtual background feature using TensorFlow.js body segmentation
