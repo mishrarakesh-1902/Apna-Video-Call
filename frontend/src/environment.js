@@ -19,3 +19,5 @@ export default server;
 // Feature Flags: ENABLE_RECORDING, ENABLE_CHAT, ENABLE_WHITEBOARD, ENABLE_POLLS
 
 // Timeouts: API_TIMEOUT=10000ms, SOCKET_TIMEOUT=5000ms, UPLOAD_TIMEOUT=60000ms
+
+// Retry: Failed API calls retry up to 3 times with 1s, 2s, 4s backoff delays

@@ -374,3 +374,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-23 17:15:00] Add error toast notification documentation
 - Documented toast notification system for auth error feedback
+
+### [2026-02-24 10:00:00] Add retry logic documentation
+- Added exponential backoff retry logic configuration for failed API requests
