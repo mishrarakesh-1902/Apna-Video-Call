@@ -383,3 +383,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-25 10:30:00] Add two factor authentication documentation
 - Documented two-factor authentication using TOTP with backup code support
+
+### [2026-02-25 16:00:00] Add meeting notes documentation
+- Added meeting notes feature documentation with local save and export support

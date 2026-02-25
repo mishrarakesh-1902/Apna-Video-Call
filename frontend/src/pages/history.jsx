@@ -100,3 +100,5 @@ export default function History() {
 // Advanced Search: Combined filters for date, duration, role, participants, keyword
 
 // Sort: by date (default), duration (asc/desc), participant count, meeting title
+
+// Notes: Per-meeting notes saved locally, exported with meeting history CSV
