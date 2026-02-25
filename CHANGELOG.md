@@ -380,3 +380,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-24 15:30:00] Add virtual background documentation
 - Documented virtual background feature using TensorFlow.js body segmentation
+
+### [2026-02-25 10:30:00] Add two factor authentication documentation
+- Documented two-factor authentication using TOTP with backup code support

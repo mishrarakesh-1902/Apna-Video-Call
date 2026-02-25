@@ -186,3 +186,5 @@ export default function Authentication() {
 // OAuth: Google Sign-In button, handles token exchange, creates account if new user
 
 // Forgot Password: Email input, rate limited to 3 requests/hour, 1h link expiry
+
+// 2FA: TOTP-based (Google Authenticator), backup codes provided on setup
