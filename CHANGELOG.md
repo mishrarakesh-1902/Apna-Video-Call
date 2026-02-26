@@ -389,3 +389,6 @@ All notable changes to Apna Video Call are documented here.
 
 ### [2026-02-26 10:00:00] Add waiting room documentation
 - Documented waiting room feature with host admit control and media preview
+
+### [2026-02-26 16:30:00] Add security badge section documentation
+- Documented landing page security and compliance badges section

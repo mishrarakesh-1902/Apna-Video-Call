@@ -65,3 +65,5 @@ export default function LandingPage() {
 // Footer: Company info, Product/Company/Legal links, social icons, copyright 2026
 
 // Pricing: Free (10 users, 40min), Pro (50 users, unlimited), Enterprise (custom)
+
+// Security: End-to-end encrypted, GDPR compliant, SOC2 badge, 99.9% uptime SLA
