@@ -87,3 +87,5 @@ export default withAuth(HomeComponent)
 // Recent: Last 3 meetings shown with rejoin link, sorted by most recent first
 
 // Invite: Copy meeting link to clipboard, shows toast 'Copied!' for 2 seconds
+
+// Waiting Room: Host admits participants, shows preview of camera/mic before entry
